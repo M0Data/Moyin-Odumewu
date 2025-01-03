@@ -1,31 +1,67 @@
-# Hi, I’m Moyin Odumewu  
+# About Me  
 
-A Marine Biology graduate who swapped tide charts for data dashboards. With a scientific mindset, a flair for problem-solving, and a passion for uncovering insights, I’m carving a niche as an entry-level Data Analyst. Armed with Excel, SQL, Power BI, and growing Python skills, I’m ready to dive into the data world.  
-
----
-
-## 🛠️ What I Do  
-
-As an aspiring Data Analyst, here’s how I make data work:  
-
-- **Data Cleaning & Analysis:** Wrangling messy datasets, cleaning them up, and analyzing trends to uncover actionable insights that drive decisions.  
-- **Data Storytelling:** Transforming numbers into visually engaging stories through Excel spreadsheets and Power BI dashboards to inform and inspire.  
-- **SQL Sleuthing:** Extracting valuable insights from databases with well-crafted queries, ensuring no trend goes unnoticed.  
+Hello! I’m Moyin Odumewu, a **Marine Biology graduate** who has transitioned from tide charts to data dashboards. With a scientific approach, a passion for problem-solving, and a drive to uncover actionable insights, I’m carving a path as an **entry-level Data Analyst**. Armed with skills in **Excel**, **SQL**, **Power BI**, and a growing proficiency in **Python**, I’m ready to explore the vast world of data.  
 
 ---
 
-## Data?  
+## 🛠️ **What I Do**  
 
-It is more than numbers to me. It's the backstory of every choice, the wisdom behind every tactic, and the answer to challenging issues. The limitless ability that data has to bring about notable change inspires me, whether I'm identifying patterns, analyzing results, or generating expansion.  
+As a data enthusiast, I specialize in turning raw data into meaningful insights that inform decisions. Here’s what I bring to the table:  
+
+- **Data Cleaning & Analysis:** Organizing messy datasets, identifying patterns, and transforming them into valuable insights to guide strategies.  
+- **Data Storytelling:** Crafting engaging visualizations and interactive dashboards using Excel and Power BI to effectively communicate findings.  
+- **SQL Expertise:** Writing precise queries to extract hidden trends and insights from databases, ensuring no detail is overlooked.  
 
 ---
- 
-📈 Let’s connect and collaborate on turning raw data into meaningful insights! 😊  
+
+## 🎓 **Educational Background**  
+
+- **B.Sc. Marine Biology** – *University of Lagos*  
+  My academic journey honed my research skills, analytical thinking, and attention to detail, all of which I now apply to solving data-driven challenges.  
 
 ---
 
-- **[LinkedIn](https://www.linkedin.com/in/moyin-odumewu-892536289/**  
-- **[Portfolio Website](#)** (Coming Soon!)  
+## 🛠️ **Skills**  
+
+### **Technical Skills:**  
+- **Data Analysis & Visualization:** Proficient in **Microsoft Excel** and **Power BI**, leveraging Pivot Tables, Power Query, DAX, and Data Modeling.  
+- **SQL:** Skilled in querying and managing datasets effectively.  
+- **Python:** Currently building advanced analytics capabilities.  
+
+### **Soft Skills:**  
+- Strong **critical thinking** and **problem-solving** abilities.  
+- Excellent communication and interpersonal skills.  
+- Effective **time management** and the ability to multitask under pressure.  
+
+---
+
+## 🎯 **Current Projects**  
+
+### **Data Analysis Projects:**  
+- **Netflix User Behavior and Revenue Insights:** A Power BI dashboard analyzing subscription trends and revenue growth.  
+- **59th Store Sales and Performance Analysis:** Identifying patterns and offering actionable recommendations.  
+- **Football SQL Project:** Exploring football-related datasets through SQL queries.  
+
+### **Learning & Growth:**  
+- Continuously enhancing my skills in **SQL**, **Power BI**, and **Python** to deepen my expertise in data analysis.  
+
+---
+
+## 🌟 **Fun Facts About Me**  
+
+- I’m a big fan of **music** and **football**.  
+- I love tackling analytical challenges and telling compelling stories through data.  
+- As a music **A&R**, I enjoy discovering and supporting quality music.  
+
+---
+
+## 🤝 **Let’s Connect!**  
+
+- **[LinkedIn](https://www.linkedin.com/in/moyin-odumewu-892536289/)**  
+- **[Portfolio Website](https://m0data.github.io/MoyinOdumewu.github.io/)**  
+
+📊 Let’s collaborate and turn data into actionable insights!  
+
 
 
 
